@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/MTrack.Core/MTrack.Core.csproj" />
+    <Project Path="src/MTrackPanel/MTrackPanel.csproj" />
+  </Folder>
+  <Folder Name="/tools/">
+    <Project Path="tools/MTrackProbe/MTrackProbe.csproj" />
+  </Folder>
+</Solution>
